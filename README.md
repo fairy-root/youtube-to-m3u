@@ -69,4 +69,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or suggestions, please contact @FairyRoot on Telegram.
+For any questions or suggestions, please contact [@FairyRoot](t.me/FairyRoot) on Telegram.

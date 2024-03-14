@@ -20,7 +20,7 @@ Before you begin, ensure you have met the following requirements:
 
 To install the bot, follow these steps:
 
-- **make sure to include your Telwgram Bot Token in the settings.ini file. (see ##Configuration)**
+- **make sure to include your Telwgram Bot Token in the settings.ini file. (see #Configuration)**
 
 1. Clone the repository:
    ```bash

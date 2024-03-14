@@ -20,7 +20,7 @@ Before you begin, ensure you have met the following requirements:
 
 To install the bot, follow these steps:
 
-- **make sure to include your Telwgram Bot Token in the settings.ini file.**
+- **make sure to include your Telwgram Bot Token in the settings.ini file. (see ## Configuration)**
 
 1. Clone the repository:
    ```bash
@@ -37,8 +37,7 @@ To install the bot, follow these steps:
 
 ## Configuration
 
-1. Rename `settings.ini.example` to `settings.ini`.
-2. Open `settings.ini` and replace `Telegram_Bot_Token` with your actual Telegram Bot Token obtained from BotFather.
+1. Open `settings.ini` and replace `Telegram_Bot_Token` with your actual Telegram Bot Token obtained from BotFather.
 
 ## Usage
 
